@@ -9,3 +9,5 @@ Displays details about character or location.
 [Rick and Morty API](https://rickandmortyapi.com/)
 
 **Expected Roadblocks:**
+* Learning and implementing a new library like Bootstrap to help with styling.
+* I believe I have a good enough grasp of axios to be able to use it but I still expect roadblocks reffering to it.
